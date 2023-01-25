@@ -1,5 +1,5 @@
 # Zooov
-Layout of an online dog food store, [review](https://mykhailo-nagornyak.github.io/Zooov.github.io/). 
+Layout of an online dog food store, [review](https://nazar-nahorniak.github.io/zooov/). 
 
 - Site adaptation to 320px.
 - The BEM methodology was used in the written markings.
